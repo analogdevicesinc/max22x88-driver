@@ -23,9 +23,11 @@ To take full advantage of this project, the following tools are required:
 
 This project uses Doxygen for generating documentation.
 
-To generate the API Reference Manual, run Doxygen with the `doc/Doxyfile` configuration file.
-That can be done by `cd`ing into the `doc` folder and running the `doxygen` command.
-The output will be generated at `doc/output`.
+The API Reference manual for the latest release can be accessed on https://analogdevicesinc.github.io/max22x88-driver/. The documentation for other versions can be generated locally:
+
+- Run Doxygen with the `doc/Doxyfile` configuration file.
+- That can be done by `cd`ing into the `doc` folder and running the `doxygen` command.
+- The output will be generated at `doc/output`.
 
 ## Make integration
 
